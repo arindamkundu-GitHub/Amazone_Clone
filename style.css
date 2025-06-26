@@ -1,0 +1,17 @@
+table,tr,th,td{
+    border: 5px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+
+}
+th{
+    background-color:tomato
+}
+td{
+    background-color: bisque;
+}
+h1{
+    border: 10px solid black;
+    padding: 60px;
+    
+}
